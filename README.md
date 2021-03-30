@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @deisybasto
 - 👀 I’m interested in full-stack web
 - 🌱 I’m currently learning nodejs , python and angular
-- 💞️ I’m looking to collaborate on Rappi
+- 💞️
 
 
 <!---
